@@ -26,9 +26,9 @@ Cuenta y clave de API de Exchange Rate API.
 Pasos para la Instalación
 Clonar el repositorio:
 
-bash
-Copiar código
-git 
+git clone https://github.com/CamiloToroSan/Conversor-de-Moneda---Challenge-ONE---Java---Back-end.git
+cd Conversor-de-Moneda---Challenge-ONE---Java---Back-end
+
 
 
 ✨ Modo de Uso
